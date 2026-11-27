@@ -1,0 +1,21 @@
+# ninja log v7
+5	68	8171985046929689	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-mkdir	f93d225692d5ec84
+5	68	8171985046929689	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-mkdir	f93d225692d5ec84
+69	17757	8171985223822050	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-download	2429a64685d4d3d7
+69	17757	8171985223822050	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-download	2429a64685d4d3d7
+17757	17818	8171985224433980	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-update	3bdd88c9cc2a4a11
+17757	17818	8171985224433980	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-update	3bdd88c9cc2a4a11
+17818	17876	8171985225005646	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-patch	c68e34c8faa65235
+17818	17876	8171985225005646	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-patch	c68e34c8faa65235
+17876	17933	8171985225584409	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-configure	90fa96d4eb9eb2b3
+17876	17933	8171985225584409	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-configure	90fa96d4eb9eb2b3
+17933	17994	8171985226198414	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-build	475a96f8eb822d32
+17933	17994	8171985226198414	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-build	475a96f8eb822d32
+17994	18052	8171985226772973	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-install	2bf8f107be31af2f
+17994	18052	8171985226772973	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-install	2bf8f107be31af2f
+18052	18110	8171985227347917	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-test	9eabb323afbeb43d
+18052	18110	8171985227347917	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-test	9eabb323afbeb43d
+18111	18190	8171985228152204	CMakeFiles/qt5-populate-complete	968cdb73230ee275
+18111	18190	8171985228152204	qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-done	968cdb73230ee275
+18111	18190	8171985228152204	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/CMakeFiles/qt5-populate-complete	968cdb73230ee275
+18111	18190	8171985228152204	C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-done	968cdb73230ee275

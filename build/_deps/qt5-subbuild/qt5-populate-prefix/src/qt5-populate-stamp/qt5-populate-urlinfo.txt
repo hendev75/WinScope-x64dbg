@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/download-qt5-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/verify-qt5-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/extract-qt5-populate.cmake
+source_dir=C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-src
+work_dir=C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps
+url(s)=https://github.com/x64dbg/deps/releases/download/2025.07.02/qt5.12.12-msvc2017_64.7z
+hash=SHA256=770490bf09514982c8192ebde9a1fac8821108ba42b021f167bac54e85ada48a
+      no_extract=
+

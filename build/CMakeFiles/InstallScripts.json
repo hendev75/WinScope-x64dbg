@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/cmake_install.cmake",
+		"C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/src/zydis_wrapper/cmake_install.cmake",
+		"C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/src/gui/Src/ThirdPartyLibs/md4c/cmake_install.cmake",
+		"C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/src/third_party/cmake_install.cmake",
+		"C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/src/third_party/TitanEngine/cmake_install.cmake",
+		"C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/src/third_party/GleeBug/cmake_install.cmake",
+		"C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/src/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

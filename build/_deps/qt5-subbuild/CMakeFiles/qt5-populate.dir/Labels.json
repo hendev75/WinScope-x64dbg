@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/CMakeFiles/qt5-populate"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/CMakeFiles/qt5-populate.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/CMakeFiles/qt5-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/fam60/Desktop/x64dbg-2026.05.27/build/_deps/qt5-subbuild/qt5-populate-prefix/src/qt5-populate-stamp/qt5-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qt5-populate"
+		],
+		"name" : "qt5-populate"
+	}
+}
